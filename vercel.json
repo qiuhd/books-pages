@@ -6,6 +6,10 @@
           {
             "key" : "Access-Control-Allow-Origin",
             "value" : "*"
+          },
+          {
+            "key" : "test",
+            "value" : "v"
           }
         ]
       }
